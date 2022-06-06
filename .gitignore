@@ -1,0 +1,8 @@
+logs
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+ministry_total.csv
+sector_total.csv
+webserver_config.py
+.idea
